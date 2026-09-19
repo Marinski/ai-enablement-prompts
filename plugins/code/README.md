@@ -31,6 +31,7 @@ No MCP servers required. All skills work with standard file system access.
 | `signatures` | Generate a signatures.md summarizing API signatures with a mermaid dependency graph |
 | `instruction-generation` | Onboard an AI agent to an unknown codebase via a 6-step analysis chain |
 | `document-feature` | Create comprehensive feature requirement documents with user stories and workflows |
+| `security-audit` | Multi-phase security audit with independently verified, machine-readable findings (vendored from Cloudflare) |
 | `create-skill-claude` | Create new skills for Claude Code projects |
 | `create-skill-copilot` | Create new skills for VS Code Copilot projects |
 
